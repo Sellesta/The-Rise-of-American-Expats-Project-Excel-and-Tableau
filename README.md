@@ -1,44 +1,74 @@
-# The-Rise-of-American-Expats-Project-Excel-and-Tableau-
-In this project, I will clean, analyze, and visualize my American expats database using Excel and Tableau
+The Rise of American Expats: Excel and Tableau Project
+This project explores the intersection of English teacher salaries, cost of living in Asia, and the increasing number of American expats moving abroad. The tools used for data cleaning, analysis, and visualization are Excel and Tableau.
 
-This project aims to determine the relationship between English teacher's salary, Asian cost of living and the rise of American expats in Asia.. 
+📖 Table of Contents
+Project Overview
+Features & Techniques
+Datasets
+Tools Used
+Insights & Goals
+Contributors
+License
+References
+📊 Project Overview
+This project aims to determine how English teaching salaries and the cost of living in Asia correlate with the rise in American expats choosing to live there. It involves cleaning multiple datasets, performing statistical analysis, and building interactive dashboards to visualize the findings.
 
+🧰 Features & Techniques
+🔹 Excel Techniques
+Removing Duplicates
+COUNTIF
+LEFT / RIGHT / MID
+VLOOKUP
+🔹 Tableau Techniques
+Symbols Map
+Packed Bubbles
+Horizontal Bar Charts
+Dashboard Creation
+📁 Datasets
+Cost of Living - Country Rankings
 
-## 1. About the project: 
-###### a. Some highlighted features that I will use when I work with Excel: 
-- REMOVING DUPLICATES
-- COUNTIF
-- LEFT
-- RIGHT
-- MID 
-- VLOOKUP
+Source: The Global Economy
+Details: Index-based data on cost of living across all countries
+Tool: Excel (cleaning), Tableau (visualization)
+8.7 Million Americans Living Abroad
 
-###### b. Some highlighted features that I will use when I work with Tableau: 
-- Symbols Map
-- Packed Bubbles
-- Horizontal Bar
-- Building dashboard
+Source: Americans Helping Americans Abroad
+Details: Distribution of American expats in 160+ countries
+Tool: Excel (cleaning), Tableau (visualization)
+Asian American Population by State (2022)
 
-## 2. About the dataset: 
-- There are four database in my project: 
+Source: World Population Review
+Details: Percentage of Asians in each U.S. state
+Tool: Excel (cleaning), Tableau (visualization)
+English Teaching Salaries in Asia
 
-###### a. Cost of living - Country rankings: 
-- Source: [The Global Economy](https://www.theglobaleconomy.com/rankings/cost_of_living_wb/)
-- Overall: The page has data about the cost of living in all countries over the world (index point) 
-- Tool: Excel to clean data, Tableau to visualize
+Source: International TEFL Academy
+Details: Average monthly salaries of English teachers in Asian countries
+Tool: Excel (cleaning), Tableau (visualization)
+🧪 Tools Used
+Excel for:
 
-###### b. 8.7 million Americans (excluding military) live in 160-plus countries 
-- Source: [Americans Helping Americans Abroad](https://aaro.org/about-aaro/8m-americans-abroad)
-- Overall: This database contains information about the number of American expats and its distribution over the world.
-- Tool: Excel to clean data, Tableau to visualize
+Data preprocessing
+Formulas and transformations
+Cleaning duplicates and formatting
+Tableau for:
 
-###### c. Asian American Population by State 2022: 
-- Source: [World Population Review](https://worldpopulationreview.com/state-rankings/asian-population)
-- Overall: This database contains information about the percentage of Asians in each state in America. 
-- Tool: Excel to clean data, Tableau to visualize
+Visual exploration of trends
+Interactive dashboards
+Visual storytelling and analysis
+🎯 Insights & Goals
+Determine how cost of living impacts the attractiveness of a country for American expats
+Assess whether higher English teacher salaries are associated with increased expat presence
+Analyze expat distribution trends and correlate them with socio-economic factors
+Use data to visualize migration patterns and economic incentives
+👥 Contributors
+Created by [Your Name]. Contributions and feedback are welcome!
 
+📄 License
+This project is released under the MIT License. You are free to use, modify, and distribute it with appropriate attribution.
 
-###### d. How Much Can You Make Teaching English Abroad?: 
-- Source: [International TEFL academy](https://www.internationalteflacademy.com/blog/how-much-money-can-i-earn-teaching-english-abroad)
-- Overall: This database contains information English teacher's salary in Asia.
-- Tool: Excel to clean data, Tableau to visualize
+🔗 References
+The Global Economy: https://www.theglobaleconomy.com
+Americans Helping Americans Abroad: https://example.org
+World Population Review: https://worldpopulationreview.com
+International TEFL Academy: https://www.internationalteflacademy.com
